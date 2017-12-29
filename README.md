@@ -7,7 +7,7 @@ This plugin uses sentry-android and sentry-cocoa to catch native errors/stack tr
 ## Installation
 
 ```javascript
-tns plugin add nativescript-sentry
+tns plugin add nativescript-sentry.io
 ```
 
 ## Usage
