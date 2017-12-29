@@ -20,7 +20,7 @@ Sentry.init(dsn);
 ```
 ### With Angular
 ```typescript
-import { SentryModule } from 'nativescript-sentry/angular';
+import { SentryModule } from 'nativescript-sentry.io/angular';
 
 NgModule({
   ...
