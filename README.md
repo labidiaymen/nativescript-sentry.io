@@ -14,7 +14,7 @@ tns plugin add nativescript-sentry.io
 
 ### Without Angular
 ```typescript
-import { Sentry } from 'nativescript-sentry';
+import { Sentry } from 'nativescript-sentry.io';
 const dsn = 'https://<key>:<secret>@host/<project>';
 Sentry.init(dsn);
 ```
