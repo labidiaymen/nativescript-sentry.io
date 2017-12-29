@@ -1,6 +1,6 @@
 {
   "name": "nativescript-sentry.io",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This plugin uses sentry-android and sentry-cocoa to catch native errors/stack traces and send them to a sentry server.",
   "main": "index.js",
   "scripts": {
