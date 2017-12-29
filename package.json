@@ -1,0 +1,30 @@
+{
+  "name": "nativescript-sentry.io",
+  "version": "1.0.1",
+  "description": "This plugin uses sentry-android and sentry-cocoa to catch native errors/stack traces and send them to a sentry server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/labidiaymen/nativescript-sentry.io.git"
+  },
+  "keywords": [
+    "nativescript",
+    "sentry",
+    "sentry.io",
+    "tracking",
+    "monitor",
+    "crashes",
+    "real",
+    "time",
+    "workflow"
+  ],
+  "author": "Labidi Aymen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/labidiaymen/nativescript-sentry.io/issues"
+  },
+  "homepage": "https://github.com/labidiaymen/nativescript-sentry.io#readme"
+}
