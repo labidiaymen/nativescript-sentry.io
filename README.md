@@ -76,41 +76,4 @@ try {
 `Sentry.clearContext()``
 
 
-### Next features:
-
-* set device props from device(missing orientation/battery)
-* IOs native breadcrumbs
-* callback for events
-
-### Changelog:
-
-**11/12/2017 - (1.5.0):**
-
-**BREAKING CHANGES**
-* `capture()` method was deprecated in favor of `captureMessage`/`captureException`
-
-**Features**
-* Moving to an hybrid approach with both clients(web/native)
-* breadcrums
-* tags
-* user info
-* set tags and extra for each event
-
-**28-08-2017 - (1.3.0):**
-* fix Aot compilation for angular apps
-* fix typos thanks to @muratcorlu 
-
-**2-08-2017 - (1.2.0):**
-* update demos dependencies
-* update ios and android native dependencies
-* fix ios event capture
-
-**24-07-2017 - (1.1.0):**
-
-* fix stringify
-* fix angular error handler
-
-## Credits:
-
-* **@hypery2k**: for his **nativescript-fabric**(helped me a lot!)
 
